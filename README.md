@@ -9,4 +9,4 @@
 ```cargo install love-fetch``` <br>
 
 # License 📑 
-(c) 2021 Fabio Grimaldi. [MIT License](https://tldrlegal.com/license/mit-license)
+(c) 2021 Fabio Grimaldi, Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
