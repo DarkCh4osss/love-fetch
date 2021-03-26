@@ -1,6 +1,7 @@
 # 💖 love-fetch
 > Original code <a href="https://github.com/irevenko/ferris-fetch/">ferris-fetch 💖</a>
 
+<img src="https://cdn.discordapp.com/attachments/799679376563109938/824963303398834236/unknown.png" alt="preview"></img>
 <p>🛠️ System tool for all my lovers 💖</p>
 
 
