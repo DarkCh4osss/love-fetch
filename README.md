@@ -1,7 +1,7 @@
 # 💖 love-fetch
 > Original code <a href="https://github.com/irevenko/ferris-fetch/">ferris-fetch 💖</a>
 
-<p align="center">🛠️ System tool for all my lovers 💖</p>
+<p>🛠️ System tool for all my lovers 💖</p>
 
 
 # How to install it 🔨
