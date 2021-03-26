@@ -1,0 +1,11 @@
+# 💖 love-fetch
+> Original code <a href="https://github.com/irevenko/ferris-fetch/">ferris-fetch 💖</a>
+
+<p align="center">🛠️ System tool for all my lovers 💖</p>
+
+
+# How to install it 🔨
+```cargo install love-fetch``` <br>
+
+# License 📑 
+(c) 2021 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
