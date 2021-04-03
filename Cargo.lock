@@ -87,7 +87,7 @@ dependencies = [
 
 [[package]]
 name = "love-fetch"
-version = "1.1.1"
+version = "1.1.2"
 dependencies = [
  "colored",
  "sysinfo",
