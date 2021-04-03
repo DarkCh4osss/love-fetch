@@ -18,8 +18,9 @@ const LOVE_PXART: &[&str] = &[
 "               8b   d8                 ",
 "                8b d8                  ",
 "                 888                   ",
-"                  |                    ",
-"                                      ",
+"                  8                    ",
+"                                       ",
+"                                       ",
 ];
 
 fn render(info: &[String]) {
@@ -78,6 +79,8 @@ fn main() {
         kernel,
         cpu,
         ram,
+        "".to_string(),
+        "".to_string(),
         "".to_string(),
         bright_colors,
         dark_colors,
